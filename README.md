@@ -1,4 +1,4 @@
-# Vehicle Number Plate Detection and State Identification  
+# Vehicle Number Plate Detection and State Identification 🚗🚘
 
 ## Overview  
 This project simplifies vehicle identification by automatically detecting number plates, extracting text using OCR, and identifying the state of registration. It combines powerful tools like Haar Cascade and EasyOCR with a user-friendly Streamlit interface to deliver a smooth, real-time experience.  
@@ -50,8 +50,13 @@ This project simplifies vehicle identification by automatically detecting number
 5. Upload a video or image in the app.
 6. View the detected number plate, extracted text, and the identified state directly in the interface.
 
+## Output:
 
-## And that's a smooth ride! 🚗
+ ![Screenshot 2024-12-06 072800](https://github.com/user-attachments/assets/d268d446-b853-4974-9c50-752d59c64570)
+
+
+
+## And that's it have a smooth ride ahead! 🚗
 
 ---
 
